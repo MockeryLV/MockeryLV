@@ -1,4 +1,26 @@
-### Hi there 👋
+### Hi there 👋, my name is Aleksejs Čikuns!
+
+Full-Stack Web Developer specializing in PHP, Laravel (backend) and Vue.js (frontend).
+
+---
+
+Contacts:
+
+* Email: alexey.chikuns@gmail.com
+* LInkedIn: https://www.linkedin.com/in/aleksejs-%C4%8Dikuns-1168b8219/
+
+---
+
+Tools I use
+
+* PHP
+* Laravel
+* MySQL
+* PhpStorm
+* HTML
+* CSS
+* Vue.js
+
 
 <!--
 **MockeryLV/MockeryLV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
